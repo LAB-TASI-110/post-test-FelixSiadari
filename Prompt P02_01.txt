@@ -1,0 +1,3 @@
+buatkan programnya yg bisa dijalankan dengan baik tanpa eror daftar ongkos kirim del Express
+membuat program C sistem pengiriman Del-Express yang bekerja berulang sampai kode END dimasukkan.kenapa program berhenti saat di terminal sehabis di gcc
+kenapa program berhenti saat di terminal sehabis di gcc

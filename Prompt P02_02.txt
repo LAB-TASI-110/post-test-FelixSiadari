@@ -1,0 +1,3 @@
+Data stok barang disimpan dalam sebuah rak gudang yang tersusun rapi. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok barang dipisahkan. Input: Jumlah total data (N). Deret stok (s1, s2, ..., sN). Kode kategori barang.
+tolong buatkan program c yang berdasarkan perintah soal diats dengan 4 kertas yang berututtan.
+dan buatkanprogram c yag dapat dijalankan dengn baik tanpa eror.

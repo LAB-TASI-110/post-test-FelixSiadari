@@ -1,0 +1,2 @@
+Buatlah sebuah sistem yang mendukung operasional kafetaria IT Del. PROGRAMC dengan jelas besertakan input outputnya.
+buatlah program secara singkat tetapi rinci dan detail serta penjelesannya.
